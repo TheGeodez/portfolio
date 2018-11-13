@@ -24,7 +24,7 @@ SECRET_KEY = '&p=j8-cr1(don_66^d-pe10)bti5-_p-y4#b9o%$1=m2+7(y5i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['thegeodez.pythonanywhere.com']
 
 # Application definition
 
